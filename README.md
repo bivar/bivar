@@ -15,7 +15,8 @@
 > - 💬 Aberta a ajudar a quem precisar, no que eu puder ajudar!
 > - 📫 Clica [**aqui**](https://bivar.github.io/about.html) pra saber mais!
 > - 😄 Sou criativa, disposta, proativa, trabalho muito bem em grupo e sou bem comunicativa.
-> - :clown_face: Fun facts: Gosto de ler escutando música, gosto de fazer tudo escutando música, na verdade. Amo chá, água de coco e bolos fofinhos.  
+> - :clown_face: Fun facts: Gosto de ler escutando música, gosto de fazer tudo escutando música, na verdade. Amo chá, água de coco e bolos fofinhos. 
+> - :no_good: Não tolero discriminação de qualquer tipo! #BlackLivesMatter #loveislove 
 
 ## Onde me encontrar
 
