@@ -3,15 +3,15 @@
 ## Sobre mim
 
 > * 22
-> * Dev
+> * Data scientist || Dev
 > * Nordestina
 > * Ciência da Computação, UFPB
 
 ## Interesses e Atuações
 
-> - :desktop_computer: Atualmente estou trabalhando como estagiaria no Laboratório de Inovação do Armazém Paraíba, na UFPB. Atuo com aprendizagem de máquina e sistemas de recomendação.
-> - 🌱 Estou aprendendo sobre desenvolvimento fullstack na Next Level Week de Agosto, e pretendo começar uma aceleração de IA com Python.
-> - 👯 Conte comigo pra desenvolvimento de jogos ou projetos que envolvam IA!
+> - :desktop_computer: Atualmente estou trabalhando como estagiaria no squad de IA da Phoebus Tecnologia. Atuo com IA e sistemas de recomendação.
+> - 🌱 Atuo em projetos de inovação no Laboratório de Inovação do Armazém Paraíba, no LASER - UFPB.
+> - 👯 Conte comigo pra projetos que envolvam IA (desenvolvimento de jogos também me agrada, haha)!
 > - 💬 Aberta a ajudar a quem precisar, no que eu puder ajudar!
 > - 📫 Clica [**aqui**](https://bivar.github.io/about.html) pra saber mais!
 > - 😄 Sou criativa, disposta, proativa, trabalho muito bem em grupo e sou bem comunicativa.
