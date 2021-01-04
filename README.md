@@ -18,6 +18,10 @@
 > - :clown_face: Fun facts: Gosto de ler escutando música, gosto de fazer tudo escutando música, na verdade. Amo chá, água de coco e bolos fofinhos. 
 > - :no_good: Não tolero discriminação de qualquer tipo! #BlackLivesMatter #loveislove 
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bivar&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bivar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-andradebivar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andradebivar@gmail.com)](mailto:andradebivar@gmail.com) | [![Medium Badge](https://img.shields.io/badge/-beckyend-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/beckyend)](http://instagram.com/beckyend) | [![Insta Badge](https://img.shields.io/badge/-rbvrr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rbvrr)](https://medium.com/@rbvrr) | [![Linkedin Badge](https://img.shields.io/badge/-RebecaBivar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecabivar)](https://www.linkedin.com/in/rebecabivar)
