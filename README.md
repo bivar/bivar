@@ -3,14 +3,14 @@
 ## Sobre mim
 
 > * 22
-> * Data scientist || Dev
+> * Data scientist 
 > * Nordestina
 > * Ciência da Computação, UFPB
 
 ## Interesses e Atuações
 
-> - :desktop_computer: Atualmente estou trabalhando como estagiaria no squad de IA da Phoebus Tecnologia. Atuo com IA e sistemas de recomendação.
-> - 🌱 Atuo em projetos de inovação no Laboratório de Inovação do Armazém Paraíba, no LASER - UFPB.
+> - :desktop_computer: Atualmente estou trabalhando como cientista de dados/engenheira de Machine Learning no squad de IA da Phoebus Tecnologia.
+> - 🌱 Atuei em projetos de inovação no Laboratório de Inovação do Armazém Paraíba, no LASER - UFPB.
 > - 👯 Conte comigo pra projetos que envolvam IA (desenvolvimento de jogos também me agrada, haha)!
 > - 💬 Aberta a ajudar a quem precisar, no que eu puder ajudar!
 > - 📫 Clica [**aqui**](https://bivar.github.io/about.html) pra saber mais!
