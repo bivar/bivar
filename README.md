@@ -9,7 +9,7 @@
 
 ## Interesses e Atuações
 
-> - :desktop_computer: Atualmente estou trabalhando como **cientista de dados/engenheira de Machine Learning** no squad de IA da Phoebus Tecnologia.
+> - :desktop_computer: Atualmente estou trabalhando como Business Intern na Google, no time da Waze.
 > - 🌱 Atuei em projetos de inovação no Laboratório de Inovação com Sistemas de Recomendação do Armazém Paraíba, no LASER - UFPB.
 > - 👯 Conte comigo pra projetos que envolvam IA e dados!
 > - 💬 Aberta a ajudar a quem precisar, no que eu puder ajudar!
@@ -17,6 +17,9 @@
 > - 😄 Sou criativa, disposta, proativa, trabalho muito bem em grupo e sou bem comunicativa.
 > - :clown_face: Fun facts: Gosto de ler escutando música, gosto de fazer tudo escutando música, na verdade. Amo chá, café, água de coco e bolos fofinhos. 
 > - :no_good:**Não tolero discriminação de qualquer tipo!** #BlackLivesMatter #loveislove 
+
+## Badges
+<img src="https://i.ibb.co/vmnDgz0/Badge-Horizontal-Certified-Year-2020.png" alt="waze ads" width="200"/>
 
 ## Stack
 
