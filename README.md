@@ -2,7 +2,7 @@
 # Rebeca Bivar (bec/becky)
 ## Sobre mim
 
-> * 22
+> * 23
 > * Data scientist 
 > * Nordestina
 > * Ciência da Computação, UFPB
