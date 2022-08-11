@@ -32,7 +32,7 @@
 > ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 > ![kafka](https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=apache-kafka&logoColor=white)
 > ![airflow](https://img.shields.io/badge/Airflow-e84545?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
+> ![bigquery](https://miro.medium.com/max/500/1*5xYx2KgLQaTN8l3yFidiiA.png)
 ## Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bivar&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bivar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
