@@ -1,21 +1,22 @@
 
-# Rebeca Bivar (bec/becky)
+# Rebeca Bivar (bec/becky/beca)
 ## Sobre mim
 
-> * 24
+> * 25
 > * Data Science & Data Analysis
 > * She/her
-> * Bachelor of Computer Science 
+> * Bachelor of Computer Science
+> * Post-grad in Business Intelligence and Analytics
 
 ## Interests and Current Job
 
-> - :desktop_computer: I work as an Analytical Partner at CESAR (Centro de Estudos e Sistemas Avançados do Recife)
-> - 🌱 I worked on recommender systems projects at Armazém Paraíba and also as a Analytica Lead Intern at Google (@ Waze Ads)
+> - :desktop_computer: I work as a Data Scientist at CESAR (Centro de Estudos e Sistemas Avançados do Recife)
+> - 🌱 I worked on recommender systems projects at Armazém Paraíba and also as an Analytical Lead Intern at Google (@ Waze Ads)
 > - 👯 Count me on to help you with data analysis, ETL, business insights through data and ML
 > - 💬 Very communicative, if you struggle with storytelling, I might be able to help :) 
 > - 📫 Here goes my [**LinkedIn**](https://www.linkedin.com/in/rebecabivar/)!
-> - 😄 I have reasons to believe that I work well both on my own and also with large groups, I'm very communicative and I'm really open to receive and give feedbacks
-> - :clown_face: Fun facts: I have IBS, so I'm really into healthy food and keeping in touch with my mental health. I also listen to music/podcasts 24/7, helps me focus. I ADORE pets (dogs, cats, birds, etc). 
+> - 😄 I have reasons to believe that I work well both on my own and also with large groups, I'm very communicative and I'm open to receiving and give feedback
+> - :clown_face: Fun facts: I have IBS, so I'm really into healthy food and keeping in touch with my mental health. I also listen to music/podcasts 24/7, which helps me focus. I ADORE pets (dogs, cats, birds, etc). 
 > - :no_good:**I do not tolerate prejudice, no matter the kind, I believe that we are equal and we deserve to be who we are and love who we love!** #BlackLivesMatter #loveislove 
 
 ## Badges
