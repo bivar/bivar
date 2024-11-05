@@ -7,6 +7,7 @@
 > * She/her
 > * Bachelor of Computer Science
 > * Post-grad in Business Intelligence and Analytics
+> * Games enthusiast! (videogames, boardgames, rpg campaigns, game development, etc)
 
 ## Interests and Current Job
 
