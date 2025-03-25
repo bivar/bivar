@@ -2,8 +2,8 @@
 # Rebeca Bivar (bec/becky/beca)
 ## Sobre mim
 
-> * 25
-> * Data Science & Data Analysis
+> * 26
+> * Data Science
 > * She/her
 > * Bachelor of Computer Science
 > * Post-grad in Business Intelligence and Analytics
