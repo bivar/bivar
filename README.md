@@ -9,19 +9,7 @@
 > * Post-grad in Business Intelligence and Analytics
 > * Games enthusiast! (videogames, boardgames, rpg campaigns, game development, etc)
 
-## Interests and Current Job
-
-> - :desktop_computer: I work as a Data Scientist at CESAR (Centro de Estudos e Sistemas Avançados do Recife)
-> - 🌱 I worked on recommender systems projects at Armazém Paraíba and also as an Analytical Lead Intern at Google (@ Waze Ads)
-> - 👯 Count me on to help you with data analysis, ETL, business insights through data and ML
-> - 💬 Very communicative, if you struggle with storytelling, I might be able to help :) 
-> - 📫 Here goes my [**LinkedIn**](https://www.linkedin.com/in/rebecabivar/)!
-> - 😄 I have reasons to believe that I work well both on my own and also with large groups, I'm very communicative and I'm open to receiving and give feedback
-> - :clown_face: Fun facts: I have IBS, so I'm really into healthy food and keeping in touch with my mental health. I also listen to music/podcasts 24/7, which helps me focus. I ADORE pets (dogs, cats, birds, etc). 
-> - :no_good:**I do not tolerate prejudice, no matter the kind, I believe that we are equal and we deserve to be who we are and love who we love!** #BlackLivesMatter #loveislove 
-
-## Badges
-<img src="https://i.ibb.co/vmnDgz0/Badge-Horizontal-Certified-Year-2020.png" alt="waze ads" width="200"/>
+## [Click here to learn a little bit more about me!](https://resume-rebeca-bivar-rbvrr.vercel.app/)
 
 ## Stack
 
@@ -41,5 +29,5 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-andradebivar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andradebivar@gmail.com)](mailto:andradebivar@gmail.com) | [![Medium Badge](https://img.shields.io/badge/-rbvrr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rbvrr)](https://medium.com/@rbvrr) | [![Linkedin Badge](https://img.shields.io/badge/-RebecaBivar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecabivar)](https://www.linkedin.com/in/rebecabivar) | [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&link=https://www.codewars.com/users/bivar)](https://www.codewars.com/users/bivar)
+[![Gmail Badge](https://img.shields.io/badge/-andradebivar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andradebivar@gmail.com)](mailto:andradebivar@gmail.com) | [![Medium Badge](https://img.shields.io/badge/-rbvrr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rbvrr)](https://medium.com/@rbvrr) | [![Linkedin Badge](https://img.shields.io/badge/-RebecaBivar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecabivar)](https://www.linkedin.com/in/rebecabivar) |
 
