@@ -2,7 +2,7 @@
 # Rebeca Bivar (bec/becky/beca)
 ## Sobre mim
 
-> * 26
+> * 27
 > * Data Science
 > * She/her
 > * Bachelor of Computer Science
